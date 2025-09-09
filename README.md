@@ -1,4 +1,4 @@
-# AI Chatbot - [Your Chatbot Name]
+# AI Chatbot - CHATBOT ASSISTANT
 > A simple no-code chatbot demonstrating AI fundamentals.
 
 ---
